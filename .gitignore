@@ -7,6 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+<<<<<<< HEAD
+=======
+# Dependencies
+>>>>>>> 3c13b0708a4f5ceeba906883d70dc19f2d9c8512
 node_modules
 dist
 dist-ssr
@@ -22,3 +26,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
+=======
+
+# Project-specific ignored items
+blogify/node_modules/
+blogify/dist/
+blogify/dist-ssr/
+blogify/*.local
+>>>>>>> 3c13b0708a4f5ceeba906883d70dc19f2d9c8512
